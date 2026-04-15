@@ -51,7 +51,7 @@ client with essential enhancements.
 
 ---
 
-## 📥 Installation
+## [📥 Installation](https://github.com/obidancode/Nature-Client/releases/tag/Nature-Client)
 
 ```bash
 1. Download the latest release
