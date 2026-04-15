@@ -3,8 +3,8 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://github.com/yourrepo/Nature-Client/releases)
-[![LATEST VERSION](https://img.shields.io/badge/VERSION-26.13-22c55e?style=for-the-badge)](https://github.com/yourrepo/Nature-Client/releases)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://github.com/obidancode/Nature-Client/releases/tag/Nature-Client)
+[![LATEST VERSION](https://img.shields.io/badge/VERSION-26.13-22c55e?style=for-the-badge)](https://github.com/obidancode/Nature-Client/releases/tag/Nature-Client)
 [![STATUS](https://img.shields.io/badge/STATUS-UNDETECTED-00c853?style=for-the-badge)]
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-blue?style=for-the-badge)]
 
